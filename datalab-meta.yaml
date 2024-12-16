@@ -1,0 +1,11 @@
+title: Heasoft
+alternateName: jheasoft
+abstract: This is a JupyterLab with Heasoft.
+contactPoint.email: esin.gulbahar@esa.int
+creator.name: Esin Gulbahar
+version: 0.0.1
+description: > 
+  This datalab contains the Heasoft software.
+distribution.license: None
+domain: https://data.esa.int/esado/domainSCI
+language: english
